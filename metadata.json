@@ -1,0 +1,10 @@
+{
+  "name": "TAZAA - Circular Bio-Innovation Platform",
+  "description": "Dual AI platform turning household waste into organic plastic alternatives, plantable seed stationery, leaf tableware, and regional income opportunities.",
+  "requestFramePermissions": [
+    "camera"
+  ],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
